@@ -1,7 +1,9 @@
-# 👋 Coke — FP
+# 👋 Bienvenidos a CokeIkigai
+
+Se va actualizando documentación del temario para diferentes áreas de no solo programación, sino de temas TECH.
 
 ## 📌 Repositorios destacados
-- 🔹 [Lenguajes](https://github.com/cokeIkigai/Lenguajes) — Java, SQL, bases de datos
+- 🔹 [Lenguajes](https://github.com/cokeIkigai/Lenguajes) — Java
 - 🔹 [AccesoDatos](https://github.com/cokeIkigai/AccesoDeDatos) — CRUD, APIs REST
 - 🔹 [Sistemas](https://github.com/cokeIkigai/GESTIONBBDD) — Gestor de base de datos
 
