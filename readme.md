@@ -4,8 +4,9 @@ Se va actualizando documentación del temario para diferentes áreas de no solo 
 
 ## 📌 Repositorios destacados
 - 🔹 [Lenguajes](https://github.com/cokeIkigai/Lenguajes) — Java
-- 🔹 [AccesoDatos](https://github.com/cokeIkigai/AccesoDeDatos) — CRUD, APIs REST
-- 🔹 [GESTIONBBDD](https://github.com/cokeIkigai/GESTIONBBDD) — Gestor de base de datos
+- 🔹 [Acceso de Datos](https://github.com/cokeIkigai/AccesoDeDatos) — CRUD, APIs REST
+- 🔹 [Gestión de Bases de datos](https://github.com/cokeIkigai/GESTIONBBDD) — Gestor de base de datos
+- 🔹 [Sistemas Informáticos](https://github.com/cokeIkigai/sistemasInformaticos) — Gestor de base de datos
 
 ## 🛠 Tecnologías
 Java · PostgreSQL · Spring · Power BI 
