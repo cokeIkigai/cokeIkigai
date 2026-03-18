@@ -10,7 +10,7 @@ Se va actualizando documentación del temario para diferentes áreas de no solo 
 
 🔹 [Gestión de Bases de datos](https://github.com/cokeIkigai/GESTIONBBDD) — Gestor de base de datos
 
-🔹 [Sistemas Informáticos](https://github.com/cokeIkigai/sistemasInformaticos) — Gestor de base de datos
+🔹 [Sistemas Informáticos](https://github.com/cokeIkigai/sistemasInformaticos) — Sistemas de almacenamiento, Sistemas de Archivos
 
 ---
 
