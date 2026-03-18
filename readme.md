@@ -1,4 +1,4 @@
-# 👋 Bienvenidos a CokeIkigai
+# 👋 Bienvenidos
 
 <img src="imgcodigo.jpg" height=240 width=820>
 Se va actualizando documentación del temario para diferentes áreas de no solo programación, sino de temas TECH.
