@@ -4,7 +4,7 @@
 Se va actualizando documentación del temario para diferentes áreas de no solo programación, sino de temas TECH.
 
 ## 📌 REPOSITORIOS
-🔹 [Lenguajes](https://github.com/cokeIkigai/Lenguajes) — Java
+🔹 [Lenguajes](https://github.com/cokeIkigai/Lenguajes) — Java, JavaScript
 
 🔹 [Acceso de Datos](https://github.com/cokeIkigai/AccesoDeDatos) — CRUD, APIs REST
 
